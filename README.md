@@ -1,13 +1,30 @@
-i)     It's a Flutter project which is basically made for every individual to help to maintain 
-        their  daily expenses like how much amount they spent on their travel,food,work etc.
+# Hi, I'm Prashant! ðŸ‘‹
 
 
-ii)     So basically this app contains the two screens one is home screen in which there at top is 
-        a bar graph and under that the list of items you added to expenses
+# Expense Tracker
+
+A flutter App  that actually keep the track of expenses of an individual in daily life.
 
 
-iii)      Another Screen is a add to list screen in which you have 4 text field to fill the 
-         details  of your expenses.
+## Features
+
+- Light/dark mode toggle
+- Fullscreen mode
+- Cross platform
 
 
-iv)        Additional feature is that this app is for oth dark theme as well as light theme.
+## About
+
+- It have  2 Screens(one is a Home Screen and another is add expense screen)
+- It can be benficial/useful for every individual if it have some issue to manage his/her expense in daily life
+
+## Screenshots
+
+# Home Screen
+
+![expense](https://github.com/prashant211/expense/assets/108564234/6dd1be16-e6f9-4b54-bb42-34cdfced62be)
+
+# Add to Expense Page
+
+![expense2](https://github.com/prashant211/expense/assets/108564234/4bb31a69-8726-425f-93c1-bf8883911242)
+
